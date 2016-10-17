@@ -5,3 +5,5 @@
 <i>Uses an algorithm to produce a set of 'top ten jobs' and 'top five' highest ranking work environments best suited to the user based uponn their answers provided in the app</i><br></br>
 
 <b><h4>Designed as dissertation project for MSc IT, Stirling University 2016</h4></b>
+
+[app online simulator](http://tinyurl.com/hswqom6)
