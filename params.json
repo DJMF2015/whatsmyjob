@@ -1,6 +1,6 @@
 {
   "name": "Whatsmyjob",
   "tagline": "",
-  "body": "###whatsmyjob? android app\r\n\r\n**an occupational evaluation profile app designed for school leavers\r\n\r\n**developed as MSc project (IT)\r\n*with thanks to Phil jay, (@PhilJay) for use of MPAndroidChart for dynamic bar chart feature\r\n\r\n[Simulator-androidapp](http://tinyurl.com/hswqom6)",
+  "body": "###<h2> Whatsmyjob? : Android app</h2>\r\n\r\n<b>An occupational evaluation app for school leavers designed to help suggest possible career suggestions based upon the questionnaire</b><br></br>\r\n\r\n<i>Uses an algorithm to produce a set of 'top ten jobs' and 'top five' highest ranking work environments best suited to the user based uponn their answers provided in the app</i><br></br>\r\n\r\n<b><h4>Designed as dissertation project for MSc IT, Stirling University 2016</h4></b>\r\n\r\n*Android simulator - online\r\n[Simulator](http://tinyurl.com/hswqom6)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
