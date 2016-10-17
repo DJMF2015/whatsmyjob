@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626231316811",
+    "firebase_url": "https://api-8143616823903904721-803258.firebaseio.com",
+    "project_id": "api-8143616823903904721-803258",
+    "storage_bucket": "api-8143616823903904721-803258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626231316811:android:3f01958a53475536",
+        "android_client_info": {
+          "package_name": "com.fulton.questionnaire.whatsmyjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626231316811-op68e5rqlvgo242p6ut3lk3nf3dd8pug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrPjWufuyD1Hpqq5livTBGUnSP93dNOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
