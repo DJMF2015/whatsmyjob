@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">    <PreferenceCategory
+    android:title="Extended settings">
+
+
+    <ListPreference
+
+        android:title="Color"
+        android:summary="Pink"
+        android:key = "#FFCCBC"
+        android:entries="@array/color_entries"
+        android:entryValues="@array/color_values"/>
+
+    <ListPreference
+
+        android:title="Color"
+        android:summary="Grey"
+        android:key = "#BDBDBD"
+        android:entries="@array/color_entries"
+        android:entryValues="@array/color_values"/>
+    <ListPreference
+
+        android:title="Color"
+        android:summary="Green"
+        android:key = "#00796B"
+        android:entries="@array/color_entries"
+        android:entryValues="@array/color_values"/>
+
+
+</PreferenceCategory>
+    </PreferenceScreen>

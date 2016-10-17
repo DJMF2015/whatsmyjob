@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fulton.questionnaire.whatsmyjob">
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- The following permissions are only requested if the device is on M or above.
+     On older platforms these permissions are not requested and will not be available. -->
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_INTERNAL_STORAGE" />
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/launcher"
+        android:label="What's My Job?"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.QuestionnaireActivity"
+            android:theme="@style/AppTheme"
+            android:icon="@mipmap/launcher"
+            android:label="What's My Job?"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            />
+
+        <activity android:name="com.fulton.questionnaire.whatsmyjob.WelcomeActivity"
+            android:label="welcome"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.Instructions"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.AboutScreen"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.SavedJobs"
+            android:icon="@mipmap/launcher"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.CategoryList"
+            android:theme="@style/AppTheme"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.QuestActivity"
+            android:label="What'sMyJob?"
+            android:icon="@mipmap/launcher"
+            android:theme="@style/AppTheme"/>
+
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.SplashScreen"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fulton.questionnaire.whatsmyjob.JobsActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+    </application>
+
+</manifest>

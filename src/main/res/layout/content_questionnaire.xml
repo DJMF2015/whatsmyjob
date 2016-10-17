@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/p1"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".QuestionnaireActivity">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentTop="false"
+        android:orientation="vertical" >
+
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBar"
+            android:max="35"
+            android:padding="10dp"
+            android:progressBackgroundTint="#ec9f9f" />
+
+        <TextView
+            android:id="@+id/progress"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:padding="@dimen/fab_margin"
+            android:textColor="#ffffff" />
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:padding="@dimen/fab_margin"
+            android:textColor="#ffffff"
+            android:typeface="sans"
+            android:textSize="18dp" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.30"
+            android:orientation="vertical"
+            android:clickable="true"
+            android:measureWithLargestChild="false"
+            android:padding="@dimen/fab_margin">
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="RadioButton"
+                android:textColor="#ffffff"
+                android:layout_weight="10"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="RadioButton"
+                android:textColor="#ffffff"
+                android:layout_weight="10"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="RadioButton"
+                android:textColor="#ffffff"
+                android:layout_weight="10"
+                android:textSize="16sp" />
+            <RadioButton
+                android:id="@+id/radio3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="RadioButton"
+                android:layout_weight="10"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="NEXT QUESTION"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:background="@android:color/holo_green_light"
+            android:layout_margin="4dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:background="@color/secondary_text_default_material_light"
+            android:layout_margin="4dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

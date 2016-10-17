@@ -1,0 +1,1019 @@
+{
+  "questions": [
+    {
+      "question": "Would you like a job working outside?",
+      "answers": [
+        {
+          "text": "Would really love a job working inside",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would like a job working inside",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job working outside ",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would love a job working inside",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like to work in a job out in the open where you had plenty of fresh air?",
+      "answers": [
+        {
+          "text": "Would really dislike a job where there were plenty fresh air",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would dislike a job where there was plenty fresh air",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job where there was plenty of fresh air ",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job where there was plenty of fresh air",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job working outside in all types of weather?",
+      "answers": [
+        {
+          "text": "Would really dislike a job outside in all weathers",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would dislike a job where there was plenty fresh air",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job where there was plenty of fresh air ",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job where there was plenty of fresh air",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job that was out and about rather than in an office?",
+      "answers": [
+        {
+          "text": "Would really love a job inside in an office",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would like a job inside in an office",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job out and about ",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job out and about",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer being outside delivering leaflets through peoples door to working inside a store?",
+      "answers": [
+        {
+          "text": "Would really love a job inside in a store",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would like a job inside in a store",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job delivering leaflets",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job delivering leaflets",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When working would you prefer to be out in the open or inside a building?",
+      "answers": [
+        {
+          "text": "Would really love a job inside",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would like a job inside",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job out in the open",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job out in the open",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job in a factory to working outside in a garden",
+      "answers": [
+        {
+          "text": "Would really love a job in a factory",
+          "types": [
+            "INSIDE 2"
+          ]
+        },
+        {
+          "text": "Would like a job in a factory",
+          "types": [
+            "INSIDE 1"
+          ]
+        },
+        {
+          "text": "Would like a job in a garden",
+          "types": [
+            "OUTSIDE 1"
+          ]
+        },
+        {
+          "text": "Would really love a job in a garden",
+          "types": [
+            "OUTSIDE 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like to have a job where you worked as part of a team rather than on your own?",
+      "answers": [
+        {
+          "text": "Much prefer to work on my own",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to work on my own ",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to work as part of a team",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to work as part of a team",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy working with others to get the job done? ",
+      "answers": [
+        {
+          "text": "Much prefer to do the job on my own",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to do the job on my own",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to work with others to get the job done",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to work with others to get the job done",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job where you made the decision as a team? ",
+      "answers": [
+        {
+          "text": "Much prefer to make my own decisions",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to make my own decisions",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to make decisions as part of a team",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to make decisions as part of a team",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job where you had to rely on other people in a team? ",
+      "answers": [
+        {
+          "text": "Much prefer to work on my own",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to work on my own ",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to work as part of a team",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to work as part of a team",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job that you could just get on with things yourself? ",
+      "answers": [
+        {
+          "text": "Much prefer to get on with things myself",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to get on with things myself",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to work with others to get the job done",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to work with others to get the job done",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job where you were the only one to make the decisions?",
+      "answers": [
+        {
+          "text": "Much prefer to take my own decisions",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "Happy to make my own decisions",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "Happy to share decision making with others",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer to share the decision making with others",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job where there were plenty opportunity to chat and share with work colleagues?",
+      "answers": [
+        {
+          "text": "Much prefer a job where I did not have to chat with colleagues",
+          "types": [
+            "INDEPENDENT 2"
+          ]
+        },
+        {
+          "text": "prefer a job where I did not have to chat with colleagues",
+          "types": [
+            "INDEPENDENT 1"
+          ]
+        },
+        {
+          "text": "prefer  a job where I could chat with colleagues",
+          "types": [
+            "TEAM 1"
+          ]
+        },
+        {
+          "text": "Much prefer a job where I could chat with colleagues",
+          "types": [
+            "TEAM 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a practical job working with your hands?",
+      "answers": [
+        {
+          "text": "Much prefer not to work with my hands",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Prefer not to work with my hands",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Prefer to work with my hands",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Much prefer to work with my hands",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer an office job to a job on a building site?",
+      "answers": [
+        {
+          "text": "Would much prefer a job in an office",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would be happy in a job in an office",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would be happy in a job in building",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would much prefer a job in building",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job lifting and carrying tool?",
+      "answers": [
+        {
+          "text": "Would hate a job lifting and carrying tools",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would not like a job lifting and carrying tools",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would like a job lifting and carrying tools",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would love a job lifting and carrying tools",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job building things?",
+      "answers": [
+        {
+          "text": "Would hate a job building",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would not like a job building",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would like a job building",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would really love a job building",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job that involved a lot physical activity?",
+      "answers": [
+        {
+          "text": "Would really hate a job that involved a lot of physical activity",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would dislike a job that involved a lot of physical activity",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would like a job that involved a lot of physical activity",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would really love a job that involved a lot of physical activity",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job that involved using machine tools?",
+      "answers": [
+        {
+          "text": "Would really hate a job that involved using machine tools",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would dislike a job that involved using machine tools",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would like a job that involved using machine tools",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would really love a job that involved using machine tools",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job that involved a lot of sitting at a desk?",
+      "answers": [
+        {
+          "text": "Would love a job which involved sitting at a desk",
+          "types": [
+            "NON-PHYSICAL 2"
+          ]
+        },
+        {
+          "text": "Would like a job that involved sitting at a desk",
+          "types": [
+            "NON-PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would dislike a job that involved sitting at a desk",
+          "types": [
+            "PHYSICAL 1"
+          ]
+        },
+        {
+          "text": "Would really hate a job that involved sitting at a desk",
+          "types": [
+            "PHYSICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer to design a bridge or supervise people building the bridge?",
+      "answers": [
+        {
+          "text": "Would love a job designing a bridge",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like a job designing a bridge",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like a job supervising people building a bridge",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would love a job supervising people building a bridge",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job that required coming up with your own creative ideas?",
+      "answers": [
+        {
+          "text": "Would hate a job coming up with creative ideas",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would dislike a job coming up with creative ideas",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like a job coming up with creative ideas",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would love a job coming up with creative ideas",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job as a tattoo artist or a paramedic?",
+      "answers": [
+        {
+          "text": "Would really love to be a tattoo artist",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like to be a tattoo artist",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like to be a paramedic",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would love to be a paramedic",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer to watch music and dance or actually participate in music and dance?",
+      "answers": [
+        {
+          "text": "Would really like to do music or dance",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like to do music or dance",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would really love to watch music and dance",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would love to watch music and dance",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer to design jewellery or assemble a flat pack table?",
+      "answers": [
+        {
+          "text": "Would love to design jewellery",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like to design jewellery",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like to assemble a table",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would really like to assemble a table",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job mending clocks or creating art objects?",
+      "answers": [
+        {
+          "text": "Would really love a job creating art objects",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like a job creating art objects",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like a job mending clocks",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would really like a job mending clocks",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job selling cameras or taking photographs of people?",
+      "answers": [
+        {
+          "text": "Would really love a job taking photographs of people",
+          "types": [
+            "CREATIVE 2"
+          ]
+        },
+        {
+          "text": "Would like a job taking photographs of people",
+          "types": [
+            "CREATIVE 1"
+          ]
+        },
+        {
+          "text": "Would like a job selling cameras",
+          "types": [
+            "PRACTICAL 1"
+          ]
+        },
+        {
+          "text": "Would really like a job selling cameras",
+          "types": [
+            "PRACTICAL 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job helping people or helping animals?",
+      "answers": [
+        {
+          "text": "Would love a job helping people",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like a job helping people",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would like a job helping animals",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would love a job helping animals",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you enjoy a job serving customers?",
+      "answers": [
+        {
+          "text": "Would really like a job serving customers",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like a job serving customers",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would dislike a job serving customers",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would really dislike a job serving customers",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer to work serving people in a shop or stock taking in the back of the shop?",
+      "answers": [
+        {
+          "text": "Would really like serving people in a shop",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like serving people in a shop",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would like stock taking in the back of the shop",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would really like stock taking in the back of the shop",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job working with products rather people?",
+      "answers": [
+        {
+          "text": "Would love a job working with people",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like a job working with people",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would like a job working with products",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would love a job working with products",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer a job looking at data rather than looking after people?",
+      "answers": [
+        {
+          "text": "Would love looking after people",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like a job looking after people",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would like a job looking at data",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would love a job looking at data",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you prefer to work with things rather than people?",
+      "answers": [
+        {
+          "text": "Would much prefer to work with people",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would prefer to work with people",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would prefer to work with things",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would much prefer to work with things",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Would you like a job where you worked directly with the people in your community?",
+      "answers": [
+        {
+          "text": "Would love a job working with people in my community",
+          "types": [
+            "PEOPLE 2"
+          ]
+        },
+        {
+          "text": "Would like a job working with people in my community",
+          "types": [
+            "PEOPLE 1"
+          ]
+        },
+        {
+          "text": "Would dislike a job working with people in my community",
+          "types": [
+            "EQUIPMENT 1"
+          ]
+        },
+        {
+          "text": "Would hate a job working with people in my community",
+          "types": [
+            "EQUIPMENT 2"
+          ]
+        }
+      ]
+    }
+  ]
+}
