@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission-sdk-23
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:14:29-85
+application
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:19:5-80:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:23:9-29
+	android:supportsRtl
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:22:9-40
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.fulton.questionnaire.whatsmyjob.QuestionnaireActivity
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:27:9-34:15
+	android:screenOrientation
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:31:13-33
+	android:configChanges
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:32:13-74
+	android:icon
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:30:13-44
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:28:13-85
+activity#com.fulton.questionnaire.whatsmyjob.WelcomeActivity
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:36:9-38:58
+	android:label
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:36:19-85
+activity#com.fulton.questionnaire.whatsmyjob.Instructions
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:40:9-43:58
+	android:screenOrientation
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:41:13-76
+activity#com.fulton.questionnaire.whatsmyjob.AboutScreen
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:45:9-47:58
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:46:13-75
+activity#com.fulton.questionnaire.whatsmyjob.SavedJobs
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:49:9-53:46
+	android:screenOrientation
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:52:13-49
+	android:icon
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:51:13-44
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:50:13-73
+activity#com.fulton.questionnaire.whatsmyjob.CategoryList
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:55:9-57:46
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:56:13-76
+activity#com.fulton.questionnaire.whatsmyjob.QuestActivity
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:59:9-63:46
+	android:label
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:61:13-33
+	android:icon
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:62:13-44
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:60:13-77
+activity#com.fulton.questionnaire.whatsmyjob.SplashScreen
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:65:9-75:20
+	android:screenOrientation
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:66:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:70:13-74:29
+action#android.intent.action.MAIN
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:73:17-77
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:73:27-74
+activity#com.fulton.questionnaire.whatsmyjob.JobsActivity
+ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:76:9-78:66
+	android:theme
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:78:13-63
+	android:name
+		ADDED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml:77:13-76
+uses-sdk
+INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\WhatsmyJob-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WhatsmyJob-master\app\src\main\AndroidManifest.xml
