@@ -1,4 +1,4 @@
-###<h2> Whats My Job? : Android app</h2>
+###<h2>Whats My Job? Android app</h2>
 
 <b>An occupational evaluation app for school leavers designed to help suggest potential career suggestions</b><br></br>
 
