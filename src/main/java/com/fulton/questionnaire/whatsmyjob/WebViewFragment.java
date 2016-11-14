@@ -1,4 +1,4 @@
-package com.fulton.questionnaire.whatsmyjob;
+package com.fulton.questionnaire.com;
 
 import android.content.Context;
 import android.content.pm.ActivityInfo;
@@ -36,14 +36,16 @@ public class WebViewFragment extends Fragment {
 
     private static WebView web;
 
+    private static final String JOBS_LIST = "topTenJobs";
+
+
+    private ArrayList<String> topTenJobs;
     private WebView wv1;
     TextView text;
     WebViewFragment context;
 
 
     private static WebViewFragment instance = new WebViewFragment();
-
-
 
 
     public static WebViewFragment getInstance(WebViewFragment ctx) {
@@ -61,11 +63,21 @@ public class WebViewFragment extends Fragment {
 
 
         };
+
+        wv1.setWebViewClient(new WebViewClient() {
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                view.loadUrl(url);
+                return true;
+            }
+        });
     }
 
-    public static WebViewFragment newInstance(ArrayList<String> strings) {
+    public static WebViewFragment newInstance(ArrayList<String> topTenJobs) {
         WebViewFragment fragment = new WebViewFragment();
         Bundle args = new Bundle();
+        args.putStringArrayList(JOBS_LIST, topTenJobs);
+        fragment.setArguments(args);
 
         return fragment;
     }
@@ -74,27 +86,32 @@ public class WebViewFragment extends Fragment {
     public void onSaveInstanceState(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         context = this;
-        getActivity().setRequestedOrientation(
-                ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-        //checkConnection(getContext());
-        setHasOptionsMenu(true);
-    }
+        if (getArguments() != null) {
+            topTenJobs = getArguments().getStringArrayList(JOBS_LIST);
+            getActivity().setRequestedOrientation(
+                    ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
+            setHasOptionsMenu(true);
+        }
+
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
-        // Inflate the layout for this fragment
-
         View rootView = inflater.inflate(R.layout.fragment_webview, container, false);
         wv1 = (WebView) rootView.findViewById(R.id.webView);
         text = (TextView) rootView.findViewById(R.id.textView1);
+        // Inflate the layout for this fragment
 
-        wv1.setWebViewClient(client);
+
+        //return wv1.setWebViewClient(client);
+
         {
-        }
-        // }
+
+
+
+         }
         setHasOptionsMenu(true);
         setUpWebView();
         checkConnection(getContext());
@@ -160,8 +177,7 @@ public class WebViewFragment extends Fragment {
 
     private void setUpWebView() throws NetworkOnMainThreadException {
         final WebSettings websettings = wv1.getSettings();
-     //   checkConnection(getActivity());
-    //    checkConnection(getContext());
+
         String url = "http://www.indeed.co.uk";
         wv1.getSettings().setLoadsImagesAutomatically(true);
         wv1.getSettings().setJavaScriptEnabled(true);
