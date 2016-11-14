@@ -61,10 +61,10 @@ public class WebViewFragment extends Fragment {
 
     }
 
-    public static WebViewFragment newInstance(ArrayList<String> topTenJobs) {
+      public static WebViewFragment newInstance(ArrayList<String> topTenJobs) {
         WebViewFragment fragment = new WebViewFragment();
         Bundle args = new Bundle();
-        args.putString(JOBS_LIST, String.valueOf(topTenJobs));
+        args.putStringArrayList(JOBS_LIST, topTenJobs);
         fragment.setArguments(args);
 
         return fragment;
