@@ -168,9 +168,9 @@ public class WebViewFragment extends Fragment {
         String strtext = getArguments().getString("topTenJobs");
 
         String url = "http://"+JOBS_LIST+".indeed.co.uk";
-        String response = "<html><body>Top Job set to <b>toptenjobs</b></body></html>";
+       // String response = "<html><body>Top Job set to <b>toptenjobs</b></body></html>";
         wv1.loadData(url, "text/html", "utf-8");
-      wv1.loadUrl(url);
+        wv1.loadUrl(url);
         wv1.getSettings().setLoadsImagesAutomatically(true);
         wv1.getSettings().setJavaScriptEnabled(true);
         wv1.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
