@@ -4,7 +4,7 @@
 
 <i>The app uses an algorithm to produce a set of 'top ten jobs' and the 'top five' highest ranking work environments best suited to the user based upon their answers </i><br></br>
 
-<b><h4>Designed as project for MSc CS for Neuropsychologist UK, Stirling University 2016</h4></b>
+<b><h4>Designed for Neuropsychologist UK,2016</h4></b>
 
 [App online simulator](http://tinyurl.com/hswqom6)
 
